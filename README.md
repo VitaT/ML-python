@@ -1,3 +1,3 @@
 # ML-python
 
-scripts for ML learning
+scripts for learning about ML 
